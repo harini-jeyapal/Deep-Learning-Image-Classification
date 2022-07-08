@@ -1,0 +1,5 @@
+pytorch-lightning
+wandb
+git+https://github.com/rwightman/pytorch-image-models
+hydra-core
+torchmetrics
